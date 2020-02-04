@@ -1,0 +1,17 @@
+@import url('https://fonts.googleapis.com/css?family=Raleway:400,800&display=swap');
+
+img {
+    width: 30%;
+    float: left;
+    margin: 1.66%;
+}
+p{
+    margin-left: 1.66%;
+    font-family: Raleway;
+    font-size: 25px;
+    font-weight: 800;
+    text-transform: uppercase;
+    border-bottom: 2px solid #f1f1f1;
+    padding-bottom: 20px;
+    width: 30%;
+}
